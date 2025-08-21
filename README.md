@@ -30,7 +30,8 @@ Built with **Vue 3 + TailwindCSS** on the frontend and **Go (Gin + GORM + Postgr
 ---
 
 ## 📂 Project Structure
-short-url/
+```
+make-it-short/
 ├── backend/ # Go + Gin + GORM + PostgreSQL
 │ ├── main.go
 │ ├── database/
@@ -43,7 +44,7 @@ short-url/
 │ ├── components/
 │ └── api/
 └── tailwind.config.js
-
+```
 ---
 
 ## ⚡ API Endpoints
